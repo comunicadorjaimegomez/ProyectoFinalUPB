@@ -1,0 +1,99 @@
+
+
+body {
+    font-family: georgia, times, serif; 
+  color: #333; 
+  font-size: 1.3rem;
+  line-height: 1.3em;
+  margin: 0;
+  }
+  
+  h1 {font-size:2rem;
+    line-height: 1.3em;
+    background: white;}
+  
+  p {margin-bottom: 1.6em;
+  }
+  container {
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+  }
+  
+  .header {background: #333;
+  color: white; }
+  
+  .header a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .logo-nav-container {display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  }
+  
+  .navegacion ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+    
+  .navegacion ul li {
+    display: inline-block;
+  }
+  
+  .navegacion ul li a {
+  display: block;
+    padding: 05rem 1rem;
+  }
+  
+  
+  .header2 {background: #333;
+  color: white; }
+  
+  .header2 a {
+    color: white;
+    text-decoration: none;
+  }
+  .redes-sociales {display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  }
+  
+  .navegacion ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+    .navegacion ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+    
+  .navegacion ul li {
+    display: inline-block;
+  }
+  
+  .navegacion ul li a {
+  display: block;
+    padding: 05rem 1rem;
+  }
+  
+  
+  
+  section {
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  
+   .splide_slide img {
+    width: 850px;
+    height: 800px;
+    object-fit: cover;
+    border-radius: 90px;
+  }
